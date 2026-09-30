@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.form-theory.com/</loc>
     <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.form-theory.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.form-theory.com/de/"/>
+  </url>
+  <url>
+    <loc>https://www.form-theory.com/de/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.form-theory.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.form-theory.com/de/"/>
   </url>
 </urlset>
