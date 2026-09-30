@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.form-theory.com/sitemap.xml
+Sitemap: https://www.amybrumet.com/sitemap.xml
